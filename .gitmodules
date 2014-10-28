@@ -1,0 +1,16 @@
+[submodule "alexandria-common"]
+	path = alexandria-common
+	url = https://github.com/cmr/alexandria-common.git
+	branch = master
+[submodule "alexandria-client"]
+	path = alexandria-client
+	url = https://github.com/cmr/alexandria-client.git
+	branch = master
+[submodule "alexandria-server"]
+	path = alexandria-server
+	url = https://github.com/cmr/alexandria-server.git
+	branch = master
+[submodule "alexandria-web-client"]
+	path = alexandria-web-client
+	url = https://github.com/cmr/alexandria-web-client.git
+	branch = master
